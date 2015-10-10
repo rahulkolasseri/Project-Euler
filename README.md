@@ -1,1 +1,3 @@
-# Project-Euler
+# Project Euler
+
+Self explanatory
